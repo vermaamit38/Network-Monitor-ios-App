@@ -14,6 +14,7 @@ class BBB: UIViewController,UIWebViewDelegate
     
     @IBOutlet var web1: UIWebView!
     @IBOutlet var activity1: UIActivityIndicatorView!
+    //Actually over here i will add link of my server on Beagle Bone Black
     var url="https://google.com"
     
     override func viewDidLoad() {
