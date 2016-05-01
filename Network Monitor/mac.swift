@@ -15,7 +15,7 @@ class mac: UIViewController,UIWebViewDelegate
     
     @IBOutlet var activity1: UIActivityIndicatorView!
     
-    var url="https://google.com"
+    var url="https://google.com"   //Actually over here i will add link of my server on mac
     
     override func viewDidLoad() {
         super.viewDidLoad()
