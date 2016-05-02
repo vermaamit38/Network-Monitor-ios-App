@@ -1,7 +1,7 @@
 # Network-Monitor-ios-App
 
 About Project:<br/>
-Portable Network Monitor On Beagle Bone Black.To develop a Network Monitor on beagle bone black and extracting all the information like number of connected computers,bandwidth of each computer,protocols access by each of connected computers ,link access by each of connected computers from datasets created in promiscuous mode,And displaying these information on Android phone or on internet with the help of url created from ngrok tool. 
+Portable Network Monitor On Beagle Bone Black.To develop a Network Monitor on beagle bone black and extracting all the information like number of connected computers,bandwidth of each computer,protocols access by each of connected computers ,link access by each of connected computers from datasets created in promiscuous mode,And displaying these information on ipad ,iphone or on internet with the help of url created from ngrok tool. 
 Portable Network Monitor on Beagle Bone Black <br/><br/><br/>
  <br/>
 Running this Application: <br/>
