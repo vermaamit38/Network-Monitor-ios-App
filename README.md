@@ -18,3 +18,6 @@ Dependencies: <br/>
 4.ios device and running servers on mac and BeagleBoneBlack <br/>
 
 
+Some ScreenShots
+![pjimage](https://cloud.githubusercontent.com/assets/14006536/22458004/904c66ae-e7c0-11e6-9778-f5667d4a17c3.jpg)
+![pjimage 1](https://cloud.githubusercontent.com/assets/14006536/22457952/47f82352-e7c0-11e6-83fc-69991077964c.jpg)
