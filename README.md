@@ -25,5 +25,5 @@ Dependencies: <br/>
 Some ScreenShots
 ![pjimage](https://cloud.githubusercontent.com/assets/14006536/22458004/904c66ae-e7c0-11e6-9778-f5667d4a17c3.jpg)
 ![pjimage 1](https://cloud.githubusercontent.com/assets/14006536/22457952/47f82352-e7c0-11e6-83fc-69991077964c.jpg)
-<br/><a href="https://play.google.com/store/apps/developer?id=Amit%20verma&hl=en ">![android-app](https://cloud.githubusercontent.com/assets/14006536/25313012/f5ccb8f8-2843-11e7-8273-55a02332c7dc.png)
-</a></br>
+<br/><a href="https://play.google.com/store/apps/developer?id=Amit%20verma&hl=en ">![optimized-android-app](https://cloud.githubusercontent.com/assets/14006536/25313068/b2f6cd92-2844-11e7-856d-174740809413.png)
+</a><br/>
