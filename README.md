@@ -21,6 +21,7 @@ Dependencies: <br/>
 4.ios device and running servers on mac and BeagleBoneBlack <br/>
 
 <br/> https://itunes.apple.com/in/developer/amit-verma/id1219761009 <br/>
+<br/>https://play.google.com/store/apps/developer?id=Amit%20verma&hl=en </br>
 
 Some ScreenShots
 ![pjimage](https://cloud.githubusercontent.com/assets/14006536/22458004/904c66ae-e7c0-11e6-9778-f5667d4a17c3.jpg)
