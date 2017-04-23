@@ -19,11 +19,11 @@ Dependencies: <br/>
 2.Swift <br/>
 3.Internet <br/>
 4.ios device and running servers on mac and BeagleBoneBlack <br/>
-<br/> https://itunes.apple.com/in/developer/amit-verma/id1219761009 <br/>
-
+ 
+<br/><a href="https://play.google.com/store/apps/developer?id=Amit%20verma&hl=en ">![android-app](https://cloud.githubusercontent.com/assets/14006536/25313075/da71f57c-2844-11e7-936c-ff429fd7f23f.png)
+</a> <a href="https://itunes.apple.com/in/developer/amit-verma/id1219761009 ">![appstore-0935a99f27a112fddfb541e923a821f2](https://cloud.githubusercontent.com/assets/14006536/25313080/f8d0a752-2844-11e7-83bc-172e8de8c51f.png)</a><br/>
 
 Some ScreenShots
 ![pjimage](https://cloud.githubusercontent.com/assets/14006536/22458004/904c66ae-e7c0-11e6-9778-f5667d4a17c3.jpg)
 ![pjimage 1](https://cloud.githubusercontent.com/assets/14006536/22457952/47f82352-e7c0-11e6-83fc-69991077964c.jpg)
-<br/><a href="https://play.google.com/store/apps/developer?id=Amit%20verma&hl=en ">![optimized-android-app](https://cloud.githubusercontent.com/assets/14006536/25313068/b2f6cd92-2844-11e7-856d-174740809413.png)
-</a><br/>
+
